@@ -1,0 +1,17 @@
+{
+  "name": "tdd-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 2000 --exit"
+  },
+  "keywords": [],
+  "author": "Rodolfo Berlezi",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^6.2.0"
+  }
+}
